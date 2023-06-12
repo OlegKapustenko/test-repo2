@@ -6,3 +6,4 @@ hello1
 hello
 >>>>>>> BASE      (b542dd edit readme)
 hello2
+hello3
